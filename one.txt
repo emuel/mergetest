@@ -1,1 +1,2 @@
 Hello. This is a file that I will use for testing out the merge feature. 
+And this is a change. Will it save? What will it do?
